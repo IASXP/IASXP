@@ -13,7 +13,7 @@
 
 
 ### My Skills
-OpenGL, C++, Lua, Python, C#. C++ and C# being my favorites.
+OpenGL, C++, Lua, Python. C++ being my favorites.
 
 
 [![IASXP](https://github-readme-stats.vercel.app/api?username=IASXP)](https://github.com/IASXP)
