@@ -13,10 +13,10 @@
   </ul>
 </div>
 
-<a href="https://1nf.me"><img align="left" width="200" src="https://raw.githubusercontent.com/iasxp/iasxp/main/DSC05946.jpeg"></a>
+<a href="https://1nf.me"><img align="left" width="170" src="https://raw.githubusercontent.com/iasxp/iasxp/main/DSC05946.jpeg"></a>
 
 <div>
-<img src="https://skillicons.dev/icons?i=c,cpp,lua,linux,vim&perline=5" style="padding-top: 15px;"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,lua,linux,vim,vscode,discord,blender,java,flutter&perline=5" style="padding-top: 15px;"/>
 <h2><samp>contact me</samp></h2>
 <samp>I would love to hear from you! feel free to contact me about anything and I will be happy to respond.</samp>
 </br>
