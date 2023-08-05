@@ -13,7 +13,7 @@
   </ul>
 </div>
 
-<a href="https://1nf.me"><img align="left" width="170" src="https://raw.githubusercontent.com/iasxp/iasxp/main/DSC05946.jpeg"></a>
+<a><img align="left" width="170" src="https://raw.githubusercontent.com/iasxp/iasxp/main/DSC05946.jpeg"></a>
 
 <div>
 <img src="https://skillicons.dev/icons?i=c,cpp,lua,linux,vim,vscode,discord,blender,java,flutter&perline=5" style="padding-top: 15px;"/>
