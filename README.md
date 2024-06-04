@@ -24,8 +24,11 @@
 - message me on discord: <a>cactus2456</a></br>
 </samp>
 </div>
+<div>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IASXP&theme=dark" height="180em" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IASXP&theme=dark" height="180em" />
 
-
+</div>
 
 
 
