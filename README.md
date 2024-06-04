@@ -22,6 +22,7 @@
 </br>
 <samp>
 - message me on discord: <a>cactus2456</a></br>
+- email me at: irfansemail1@gmail.com
 </samp>
 </div>
 <div>
