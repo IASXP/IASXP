@@ -4,7 +4,7 @@
     <summary>
             <h1 style="display: inline-block;">
                 <samp>
-                    「 <a href="https://forums.x-plane.org/index.php?/profile/984286-cactus2456/">Cactus</a> 」
+                    「 <a>Irfan S</a> 」
                     <br>
                     <br>
                 </samp>
