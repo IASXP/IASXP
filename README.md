@@ -11,29 +11,12 @@
         </h1>
     </summary>
   </ul>
-</div>
 
-<a><img align="left" width="170" src="https://raw.githubusercontent.com/iasxp/iasxp/main/DSC05946.jpeg"></a>
+<img src="https://skillicons.dev/icons?i=c,cpp,lua,linux,vim,vscode,discord,blender,java,flutter&perline=15" style="padding-top: px;"/>
 
-<div>
-<img src="https://skillicons.dev/icons?i=c,cpp,lua,linux,vim,vscode,discord,blender,java,flutter&perline=5" style="padding-top: 15px;"/>
-<h2><samp>contact me</samp></h2>
-<samp>I would love to hear from you! feel free to contact me about anything and I will be happy to respond.</samp>
-</br>
-<samp>
-- message me on discord: <a>cactus2456</a></br>
-- email me at: irfansemail1@gmail.com
-</samp>
-</div>
-<div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-  
-<a href="https://github.com/IASXP">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IASXP&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IASXP&theme=dark" height="180em" />
 
-</div>
+
+
 
 
 
